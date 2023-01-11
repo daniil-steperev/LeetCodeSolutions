@@ -53,6 +53,7 @@
     <Compile Include="Tests\AbstractSolutionTester.cs" />
     <Compile Include="Tests\[118] Pascal%27s Triangle\Solution118Tester.cs" />
     <Compile Include="Tests\[119] Pascal%27s Triangle II\Solution119Tester.cs" />
+    <Compile Include="Tests\[121] Best Time to Buy and Sell Stock\Solution121Tester.cs" />
     <Compile Include="Tests\[35] Search Insert Position\Solution35Tester.cs" />
     <Compile Include="Tests\[58] Length of Last Word\Solution58Tester.cs" />
     <Compile Include="Tests\[66] Plus One\Solution66Tester.cs" />
