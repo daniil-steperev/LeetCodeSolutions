@@ -57,6 +57,7 @@
     <Compile Include="Tests\[136] Single Number\Solution136Tester.cs" />
     <Compile Include="Tests\[141] Linked List Cycle\Solution141Tester.cs" />
     <Compile Include="Tests\[169] Majority Element\Solution169Tester.cs" />
+    <Compile Include="Tests\[283] Move Zeroes\Solution283Tester.cs" />
     <Compile Include="Tests\[35] Search Insert Position\Solution35Tester.cs" />
     <Compile Include="Tests\[58] Length of Last Word\Solution58Tester.cs" />
     <Compile Include="Tests\[66] Plus One\Solution66Tester.cs" />
