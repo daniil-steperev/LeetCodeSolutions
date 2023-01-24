@@ -51,6 +51,7 @@
     <Compile Include="Solutions\[136] Single Number\Solution136.cs" />
     <Compile Include="Solutions\[141] Linked List Cycle\Solution141.cs" />
     <Compile Include="Solutions\[169] Majority Element\Solution169.cs" />
+    <Compile Include="Solutions\[234] Palindrome Linked List\Solution234.cs" />
     <Compile Include="Solutions\[283] Move Zeroes\Solution283.cs" />
     <Compile Include="Solutions\[35] Search Insert Position\Solution35.cs" />
     <Compile Include="Solutions\[58] Length of Last Word\Solution58.cs" />
