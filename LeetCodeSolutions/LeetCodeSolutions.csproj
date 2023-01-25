@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Solutions\[104] Maximum Depth of Binary Tree\Solution104.cs" />
     <Compile Include="Solutions\[118] Pascal%27s Triangle\Solution118.cs" />
     <Compile Include="Solutions\[119] Pascal%27s Triangle II\Solution119.cs" />
     <Compile Include="Solutions\[121] Best Time to Buy and Sell Stock\Solution121.cs" />
@@ -58,11 +59,11 @@
     <Compile Include="Solutions\[66] Plus One\Solution66.cs" />
     <Compile Include="Solutions\[67] Add Binary\Solution67.cs" />
     <Compile Include="Solutions\[70] Climbing Stairs\Solution70.cs" />
-    <Compile Include="Solutions\[83] Remove Duplcates from Sorted List\ListNode.cs" />
+    <Compile Include="Solutions\Util\ListNode.cs" />
     <Compile Include="Solutions\[83] Remove Duplcates from Sorted List\Solution83.cs" />
     <Compile Include="Solutions\[88] Merge Sorted Array\Solution88.cs" />
     <Compile Include="Solutions\[94] Binary Tree Inorder Traversal\Solution94.cs" />
-    <Compile Include="Solutions\[94] Binary Tree Inorder Traversal\TreeNode.cs" />
+    <Compile Include="Solutions\Util\TreeNode.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

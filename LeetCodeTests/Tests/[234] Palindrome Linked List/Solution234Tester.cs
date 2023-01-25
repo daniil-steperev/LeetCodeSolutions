@@ -1,5 +1,5 @@
 ﻿using LeetCodeSolutions.Solutions._234__Palindrome_Linked_List;
-using LeetCodeSolutions.Solutions.RemoveDuplcatesFromSortedList;
+using LeetCodeSolutions.Solutions.Util;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace LeetCodeTests.Tests._234__Palindrome_Linked_List

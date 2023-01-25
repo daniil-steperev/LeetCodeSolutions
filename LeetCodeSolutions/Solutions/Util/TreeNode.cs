@@ -1,4 +1,4 @@
-﻿namespace LeetCodeSolutions.Solutions.BinaryTreeInorderTraversal
+﻿namespace LeetCodeSolutions.Solutions.Util
 {
   public class TreeNode
   {

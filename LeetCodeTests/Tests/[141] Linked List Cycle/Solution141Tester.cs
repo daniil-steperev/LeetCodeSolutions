@@ -1,5 +1,5 @@
 ﻿using LeetCodeSolutions.Solutions.LinkedListCycle;
-using LeetCodeSolutions.Solutions.RemoveDuplcatesFromSortedList;
+using LeetCodeSolutions.Solutions.Util;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace LeetCodeTests.Tests._141__Linked_List_Cycle

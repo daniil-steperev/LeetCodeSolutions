@@ -51,6 +51,7 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Tests\AbstractSolutionTester.cs" />
+    <Compile Include="Tests\[104] Maximum Depth of Binary Tree\Solution104Tester.cs" />
     <Compile Include="Tests\[118] Pascal%27s Triangle\Solution118Tester.cs" />
     <Compile Include="Tests\[119] Pascal%27s Triangle II\Solution119Tester.cs" />
     <Compile Include="Tests\[121] Best Time to Buy and Sell Stock\Solution121Tester.cs" />

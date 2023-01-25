@@ -1,4 +1,4 @@
-﻿using LeetCodeSolutions.Solutions.RemoveDuplcatesFromSortedList;
+﻿using LeetCodeSolutions.Solutions.Util;
 
 namespace LeetCodeSolutions.Solutions._234__Palindrome_Linked_List
 {

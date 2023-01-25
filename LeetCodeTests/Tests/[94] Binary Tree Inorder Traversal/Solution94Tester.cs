@@ -1,6 +1,7 @@
 ﻿using LeetCodeSolutions.Solutions.BinaryTreeInorderTraversal;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Collections.Generic;
+using LeetCodeSolutions.Solutions.Util;
 
 namespace LeetCodeTests.Tests.BinaryTreeInorderTraversal
 {

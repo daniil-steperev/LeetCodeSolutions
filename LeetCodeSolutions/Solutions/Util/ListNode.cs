@@ -1,4 +1,4 @@
-﻿namespace LeetCodeSolutions.Solutions.RemoveDuplcatesFromSortedList
+﻿namespace LeetCodeSolutions.Solutions.Util
 {
   public class ListNode
   {

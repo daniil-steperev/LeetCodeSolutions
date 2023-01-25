@@ -1,4 +1,4 @@
-﻿using LeetCodeSolutions.Solutions.RemoveDuplcatesFromSortedList;
+﻿using LeetCodeSolutions.Solutions.Util;
 
 namespace LeetCodeSolutions.Solutions.LinkedListCycle
 {

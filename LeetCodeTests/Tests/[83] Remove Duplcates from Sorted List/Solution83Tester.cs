@@ -1,4 +1,4 @@
-﻿using LeetCodeSolutions.Solutions.RemoveDuplcatesFromSortedList;
+﻿using LeetCodeSolutions.Solutions.Util;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace LeetCodeTests.Tests.RemoveDuplcatesFromSortedList
