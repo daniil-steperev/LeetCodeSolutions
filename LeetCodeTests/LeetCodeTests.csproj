@@ -63,11 +63,16 @@
     <Compile Include="Tests\[191] Number of 1 Bits\Solution191Tester.cs" />
     <Compile Include="Tests\[202] Happy Number\Solution202Tester.cs" />
     <Compile Include="Tests\[206] Reverse Linked List\Solution206Tester.cs" />
+    <Compile Include="Tests\[217] Contains Duplicate\Solution217Tester.cs" />
     <Compile Include="Tests\[234] Palindrome Linked List\Solution234Tester.cs" />
     <Compile Include="Tests\[242] Valid Anagram\Solution242Tester.cs" />
     <Compile Include="Tests\[268] Missing Number\Solution268Tester.cs" />
     <Compile Include="Tests\[283] Move Zeroes\Solution283Tester.cs" />
+    <Compile Include="Tests\[326] Power of Three\Solution326Tester.cs" />
+    <Compile Include="Tests\[344] Reverse String\Solution344Tester.cs" />
+    <Compile Include="Tests\[350] Intersection of Two Arrays II\Solution350Tester.cs" />
     <Compile Include="Tests\[35] Search Insert Position\Solution35Tester.cs" />
+    <Compile Include="Tests\[387] First Unique Character in a String\Solution387Tester.cs" />
     <Compile Include="Tests\[58] Length of Last Word\Solution58Tester.cs" />
     <Compile Include="Tests\[66] Plus One\Solution66Tester.cs" />
     <Compile Include="Tests\[67] Add Binary\Solution67Tester.cs" />
