@@ -73,6 +73,7 @@
     <Compile Include="Tests\[350] Intersection of Two Arrays II\Solution350Tester.cs" />
     <Compile Include="Tests\[35] Search Insert Position\Solution35Tester.cs" />
     <Compile Include="Tests\[387] First Unique Character in a String\Solution387Tester.cs" />
+    <Compile Include="Tests\[412] Fizz Buzz\Solution412Tester.cs" />
     <Compile Include="Tests\[58] Length of Last Word\Solution58Tester.cs" />
     <Compile Include="Tests\[66] Plus One\Solution66Tester.cs" />
     <Compile Include="Tests\[67] Add Binary\Solution67Tester.cs" />

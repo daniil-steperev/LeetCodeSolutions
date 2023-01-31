@@ -67,6 +67,7 @@
     <Compile Include="Solutions\[350] Intersection of Two Arrays II\Solution350.cs" />
     <Compile Include="Solutions\[35] Search Insert Position\Solution35.cs" />
     <Compile Include="Solutions\[387] First Unique Character in a String\Solution387.cs" />
+    <Compile Include="Solutions\[412] Fizz Buzz\Solution412.cs" />
     <Compile Include="Solutions\[58] Length of Last Word\Solution58.cs" />
     <Compile Include="Solutions\[66] Plus One\Solution66.cs" />
     <Compile Include="Solutions\[67] Add Binary\Solution67.cs" />
